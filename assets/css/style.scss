@@ -2,9 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
+  color: #3d96c6;
 }
 
 h1,
